@@ -1,0 +1,10 @@
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.exe
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.deps.json
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.runtimeconfig.json
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.runtimeconfig.dev.json
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.dll
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\OneNumberCountConsole.pdb
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\OneNumberCountConsole.AssemblyInfoInputs.cache
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\OneNumberCountConsole.AssemblyInfo.cs
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\OneNumberCountConsole.dll
+C:\Users\Ankita\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\OneNumberCountConsole.pdb
